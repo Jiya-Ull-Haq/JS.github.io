@@ -15,7 +15,7 @@ nav {
     display: flex;
     flex-direction: column;
     position: fixed;
-    background: lightgrey;
+    background: yellow;
     border-right: 2px solid grey;
     width: 250px;
     height: 100%;
